@@ -1,0 +1,7 @@
+# Ignores everything
+/*
+/*/
+
+# Unignores hypr and kitty folders
+!/hypr
+!/kitty
